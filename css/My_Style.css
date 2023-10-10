@@ -6,15 +6,10 @@
   border-width: 2px;
   border-color: black;
 }
-.mybg {
-  background-color: #EBE9E0;
+.bg {
+  background-color: #F4F1E8;
 }
-.fontH {
-  font-family: 'Chonburi', cursive;
-}
-.fontP {
-  font-family: 'KoHo', sans-serif;
-}
+
 
 * {
   box-sizing: border-box;
@@ -34,6 +29,12 @@ body{margin-top:20px;}
     position: relative;
     margin: 1rem
 }
+.engh {
+  font-family: 'PT Sans', sans-serif;}
+.engp {
+  font-family: 'PT Serif', serif;}
+.thaip {
+  font-family: 'Taviraj', serif;}
 
 @media (min-width:768px) {
     .timeline-steps .timeline-step:not(:last-child):after {
