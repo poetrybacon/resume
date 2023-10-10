@@ -1,0 +1,16 @@
+.profile {
+  border-radius: 50%;
+}
+.fontH {
+  font-family: 'Chonburi', cursive;
+}
+.fontP {
+  font-family: 'KoHo', sans-serif;
+}
+.rcorners1 {
+  border-radius: 25px;
+  background: #FFF8E1;
+  padding: 20px;
+  width: 200px;
+  height: 65px;
+}

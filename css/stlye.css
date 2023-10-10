@@ -1,0 +1,45 @@
+body{
+	background-color: #F0EDCC;
+}
+.my-bg{
+  background-color: #02343F;
+}
+.rcorners1 {
+  border-radius: 25px;
+  background: #02343F;
+  padding: 20px;
+  width: 300px;
+  height: 70px;
+}
+.rcorners2 {
+  border-radius: 25px;
+  background: #02343F;
+  padding: 20px;
+  width: 225px;
+  height: 70px;
+}
+.rcorners3 {
+  border-radius: 25px;
+  background: #02343F;
+  padding: 20px;
+  width: 300px;
+  height: 70px;
+}
+.rcorners4 {
+  border-radius: 25px;
+  background: #02343F;
+  padding: 20px;
+  width: 350px;
+  height: 70px;
+}
+.double {border-style: double;}
+.borders {
+  border-top-style: double;
+  border-bottom-style: double;
+}
+.hfont {
+ font-family: 'Kanit', sans-serif;
+}
+.pfont {
+  font-family: 'KoHo', sans-serif;
+}
