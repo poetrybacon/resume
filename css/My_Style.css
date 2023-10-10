@@ -7,7 +7,7 @@
   border-color: black;
 }
 .mybg {
-  background-color: #fff8e1;
+  background-color: #EBE9E0;
 }
 .fontH {
   font-family: 'Chonburi', cursive;
@@ -68,12 +68,12 @@ body{margin-top:20px;}
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    background-color: #fff8e1;
+    background-color: #EBE9E0;
 }
 
 .timeline-steps .timeline-content .inner-circle:before {
     content: "";
-    background-color: #fff8e1;
+    background-color: #EBE9E0
     display: inline-block;
     height: 3rem;
     width: 3rem;
