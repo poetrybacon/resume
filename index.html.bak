@@ -4,17 +4,14 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Phatcharaphorn Resume</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
-
-      rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
-
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+      rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
       crossorigin="anonymous">
     <link type="text/css" rel="stylesheet" href="css/My_Style.css">
     <link type="text/css" rel="stylesheet" href="css/lightbox.min.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-    <link href="https://fonts.googleapis.com/css2?family=PT+Sans:wght@700&amp;family=PT+Serif:ital@1&amp;family=Taviraj&amp;display=swap"
-
+    <link href="https://fonts.googleapis.com/css2?family=PT+Sans:wght@700&amp;family=PT+Serif:ital@1&amp;family=Taviraj&amp;display=swap"
       rel="stylesheet">
     <meta name="author" content="Phatcharaphorn Kenla">
     <meta name="description" content="My Resume for work , the content include about me my name Phatcharaphorn , education , qualified , university activities etc.">
@@ -24,8 +21,7 @@
     <div class="row">
       <div class="row">
         <ul class="nav nav-tabs">
-          <li class="nav-item"> <a class="nav-link active" aria-current="page"
-
+          <li class="nav-item"> <a class="nav-link active" aria-current="page"
               href="#am">About Me</a> </li>
           <li class="nav-item"> <a class="nav-link" href="#q">Qualified</a> </li>
           <li class="nav-item"> <a class="nav-link" href="#edu">Education</a> </li>
@@ -39,8 +35,7 @@
         </ul>
       </div>
     </div>
-    <div class="row"><a id="Hommu"><img src="images/name.jpg" class="img-fluid"
-
+    <div class="row"><a id="Hommu"><img src="images/name.jpg" class="img-fluid"
           alt=""></a></div>
     <br>
     <a id="am"><br>
@@ -48,15 +43,14 @@
     <div class="container"><a id="am"> </a>
       <div class="row"><a id="am"> </a>
         <div class="col"><a id="am"> </a>
-          <h1 class="engh"><a id="am"> <span style="color: black;">ABOUT ME</span></a><span
-
+          <h1 class="engh"><a id="am"> <span style="color: black;">ABOUT ME</span></a><span
               style="color: black;"> </span></h1>
           <span style="color: black;"> <br>
           </span>
           <h1 class="engh"> <span style="color: black;">Phatcharaphorn Kenla</span>
           </h1>
           <span style="color: black;"> </span>
-          <h3 class="thaip"> <span style="color: black;">พัชราภรณ์ เคนหล้า </span></h3>
+          <h3 class="thaip"> <span style="color: black;">พัชราภรณ์ เคนหล้า</span></h3>
           <p class="myline"> </p>
           <br>
           <p class="thaip">รหัสประจำตัวนักศึกษา : 640510539</p>
@@ -65,14 +59,12 @@
           <p class="thaip">ส่วนสูง / น้ำหนัก : 169.9 เซนติเมตร / 45 กิโลกรัม</p>
           <p class="thaip">เชื้อชาติ / สัญชาติ : ไทย / ไทย</p>
           <p class="thaip">ศาสนา : พุทธ</p>
-          <div style="text-align: center;"><a href="mailto:yumetan428@gmail.com"
-
+          <div style="text-align: center;"><a href="mailto:yumetan428@gmail.com"
               target="_blank"><img src="icons/email.jpg" class="img-fluid col 0
                     md-6 px-0 my-3   " alt="" style="width: 100px; height: 100px;"></a></div>
         </div>
         <div class="col 0
-                    md-6 px-0 my-3   "><a data-lightbox="Image Album" href="images/profile.jpg"><img
-
+                    md-6 px-0 my-3   "><a data-lightbox="Image Album" href="images/profile.jpg"><img
               src="images/profile.jpg" class="img-fluid" alt=""></a></div>
       </div>
       <p></p>
@@ -108,10 +100,8 @@
       <div class="col">
         <div class="timeline-steps aos-init aos-animate" data-aos="fade-up">
           <div class="timeline-step">
-            <div class="timeline-content" data-toggle="popover" data-trigger="hover"
-
-              data-placement="top" title="" data-content="And here's some amazing content. It's very engaging. Right?"
-
+            <div class="timeline-content" data-toggle="popover" data-trigger="hover"
+              data-placement="top" title="" data-content="And here's some amazing content. It's very engaging. Right?"
               data-original-title="2003">
               <div class="inner-circle"></div>
               <p class="h6 mt-3 mb-1 thaip"><b>ระดับประถมศึกษา</b></p>
@@ -120,10 +110,8 @@
             </div>
           </div>
           <div class="timeline-step">
-            <div class="timeline-content" data-toggle="popover" data-trigger="hover"
-
-              data-placement="top" title="" data-content="And here's some amazing content. It's very engaging. Right?"
-
+            <div class="timeline-content" data-toggle="popover" data-trigger="hover"
+              data-placement="top" title="" data-content="And here's some amazing content. It's very engaging. Right?"
               data-original-title="2004">
               <div class="inner-circle"></div>
               <p class="h6 mt-3 mb-1 thaip"><b>ระดับมัธยมศึกษาตอนต้น - ปลาย</b></p>
@@ -132,10 +120,8 @@
             </div>
           </div>
           <div class="timeline-step">
-            <div class="timeline-content" data-toggle="popover" data-trigger="hover"
-
-              data-placement="top" title="" data-content="And here's some amazing content. It's very engaging. Right?"
-
+            <div class="timeline-content" data-toggle="popover" data-trigger="hover"
+              data-placement="top" title="" data-content="And here's some amazing content. It's very engaging. Right?"
               data-original-title="2005">
               <div class="inner-circle"></div>
               <p class="h6 mt-3 mb-1 thaip"><b>ระดับมหาวิทยาลัย</b></p>
@@ -154,8 +140,7 @@
     <br>
     <br>
     <div class=" bg">
-      <div class="row"><a id="skillss" data-lightbox="Image Album" href="images/comskillandlang.jpg"><img
-
+      <div class="row"><a id="skillss" data-lightbox="Image Album" href="images/comskillandlang.jpg"><img
             src="images/comskillandlang.jpg" class="img-fluid" alt=""></a></div>
     </div>
     <br>
@@ -164,30 +149,23 @@
       <div class="col 0
                     md-6 px-0 my-3  ">
         <h1 style="text-align: center;" class="engh"> <a id="in">Interests </a></h1>
-        <a data-lightbox="Image Album" href="images/about.jpg"><img src="images/about.jpg"
-
+        <a data-lightbox="Image Album" href="images/about.jpg"><img src="images/about.jpg"
             class="img-fluid  " alt=""></a></div>
       <div class="col"><br>
         <br>
         <br>
         <br>
-        <div style="text-align: center;"><a href="https://line.me/ti/p/xuQ7kFdo_2"
-
+        <div style="text-align: center;"><a href="https://line.me/ti/p/xuQ7kFdo_2"
             target="_blank"><img src="icons/call.jpg" class="img-fluid col 0
-                    md-6 px-0 my-3   " alt="" style="width: 100px; height: 100px;"></a><a
-
-            href="https://www.facebook.com/profile.php?id=100005081108955" target="_blank"><img
-
+                    md-6 px-0 my-3   " alt="" style="width: 100px; height: 100px;"></a><a
+            href="https://www.facebook.com/profile.php?id=100005081108955" target="_blank"><img
               src="icons/facebook.jpg" class="img-fluid col 0
-                    md-6 px-0 my-3   " alt="" style="width: 100px; height: 100px;"></a><a
-
-            href="https://instagram.com/poetrybbacon?igshid=YTQwZjQ0NmI0OA%3D%3D&amp;utm_source=qr"
-
+                    md-6 px-0 my-3   " alt="" style="width: 100px; height: 100px;"></a><a
+            href="https://instagram.com/poetrybbacon?igshid=YTQwZjQ0NmI0OA%3D%3D&amp;utm_source=qr"
             target="_blank"><img src="icons/instagram.jpg" class="img-fluid col 0
                     md-6 px-0 my-3   " alt="" style="width: 100px; height: 100px;"></a><br>
         </div>
-        <a data-lightbox="Image Album" href="images/interests.jpg"><img src="images/interests.jpg"
-
+        <a data-lightbox="Image Album" href="images/interests.jpg"><img src="images/interests.jpg"
             class="img-fluid col 0
                     md-6 px-0 my-3   " alt=""></a></div>
     </div>
@@ -198,8 +176,7 @@
     <div class="row bg">
       <h1 style="text-align: center;" class="engh"> <span style="color: #c47f38;"><br>
         </span></h1>
-      <h1 style="text-align: center;" class="engh"><span style="color: #c47f38;"><a
-
+      <h1 style="text-align: center;" class="engh"><span style="color: #c47f38;"><a
             name="co" id="co"></a>Career objective<br>
         </span></h1>
       <span style="color: #c47f38;"> <br>
@@ -229,28 +206,21 @@
       <br>
       <br>
       <div id="carouselExampleCaptions" class="carousel slide">
-        <div class="carousel-indicators"> <button type="button" data-bs-target="#carouselExampleCaptions"
-
+        <div class="carousel-indicators"> <button type="button" data-bs-target="#carouselExampleCaptions"
             data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-          <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1"
-
+          <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1"
             aria-label="Slide 2"></button> </div>
         <div class="carousel-inner">
-          <div class="carousel-item active"> <img src="images/img-02.jpg" class="d-block w-100"
-
+          <div class="carousel-item active"> <img src="images/img-02.jpg" class="d-block w-100"
               alt="..."> </div>
-          <div class="carousel-item"> <img src="images/img-01.jpg" class="d-block w-100"
-
+          <div class="carousel-item"> <img src="images/img-01.jpg" class="d-block w-100"
               alt="..."> </div>
         </div>
-        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions"
-
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions"
           data-bs-slide="prev"> <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="visually-hidden">Previous</span> </button> <button class="carousel-control-next"
-
+          <span class="visually-hidden">Previous</span> </button> <button class="carousel-control-next"
           type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span> <span
-
+          <span class="carousel-control-next-icon" aria-hidden="true"></span> <span
             class="visually-hidden">Next</span> </button> </div>
     </div>
     <div class="container">
@@ -258,10 +228,8 @@
         <div class="row">
           <div class="accordion" id="accordionExample">
             <div class="accordion-item">
-              <h2 class="accordion-header engh"> <button class="accordion-button collapsed"
-
-                  type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne"
-
+              <h2 class="accordion-header engh"> <button class="accordion-button collapsed"
+                  type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne"
                   aria-expanded="false" aria-controls="collapseOne">SU Bag
                   Serenade </button> </h2>
               <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
@@ -275,10 +243,8 @@
               </div>
             </div>
             <div class="accordion-item">
-              <h2 class="accordion-header thaip"> <button class="accordion-button collapsed"
-
-                  type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo"
-
+              <h2 class="accordion-header thaip"> <button class="accordion-button collapsed"
+                  type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo"
                   aria-expanded="false" aria-controls="collapseTwo">โครงการขวด
                   น้ำพลาสติกเพื่อผ้าไตรจีวร</button> </h2>
               <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
@@ -317,10 +283,8 @@
       <br>
       <br>
     </div>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
-
-integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
-
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
 crossorigin="anonymous"></script>
     <script src="js/lightbox-plus-jquery.min.js"></script>
   </body>
